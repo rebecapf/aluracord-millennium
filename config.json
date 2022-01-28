@@ -1,18 +1,18 @@
 {
-    "name": "Aluracord - Conversa na Millennium (peas)",
+    "name": "Aluracord - Conversa na Millennium",
     "theme": {
         "colors": {
             "primary": {
-                "050": "#E3F9E5",
-                "100": "#C1EAC5",
-                "200": "#A3D9A5",
-                "300": "#7BC47F",
-                "400": "#57AE5B",
-                "500": "#3F9142",
-                "600": "#2F8132",
-                "700": "#207227",
-                "800": "#0E5814",
-                "900": "#05400A"
+                "050": "#FDEFD8",
+                "100": "#FCE6C2",
+                "200": "#FBDDAC",
+                "300": "#FAD396",
+                "400": "#F9CA80",
+                "500": "#F7C16A",
+                "600": "#F6B854",
+                "700": "#F5AE3E",
+                "800": "#F4A528",
+                "900": "#F39C12"
             },
             "neutrals": {
                 "000": "#FFFFFF",
