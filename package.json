@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "@skynexui/components": "^1.23.9",
+    "@supabase/supabase-js": "^1.29.4",
     "ansi-styles": "^3.2.1",
     "big.js": "^5.2.2",
     "browserslist": "^4.19.1",

@@ -34,16 +34,16 @@ function Titulo(props) {
 
 export default function PaginaInicial() {
   // const username = 'rebecapf';
-  const [username, setUsername] = React.useState('rebecapf');
+  const [username, setUsername] = React.useState('');
   const roteamento = useRouter();
 
-  fetch('https://api.github.com/users/' + username)
-    .then(function (resposta) {
-      return resposta.json();
-    })
-    .then(function (dadosLogin) {
-      console.log(dadosLogin);
-    });
+  // fetch('https://api.github.com/users/' + username)
+  //   .then(function (resposta) {
+  //     return resposta.json();
+  //   })
+  //   .then(function (dadosLogin) {
+  //     console.log(dadosLogin);
+  //   });
 
 
   return (
